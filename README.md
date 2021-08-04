@@ -1,5 +1,6 @@
 # Optional JS challenges
 
+These are optional challenges. It is up to the developer to research what is needed to complete these challenges.
 
 HangMan Game:
 https://github.com/cs-fullstack-master/javascript_games_hangman_starter
